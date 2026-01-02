@@ -31,9 +31,3 @@ HACK_MODS = IKM([
         IKB("OTP", callback_data="D"),
                   
     ]
-
-LOG_TEXT = """
-**THIS BOT FOR LOG IN YOUR ACCOUNT** 
-
-**PURCHASE YOUR ACCOUNT NOW**
-"""
