@@ -8,9 +8,9 @@ PM_TEXT = """
 """
 
 HACK_TEXT = """
-"NUM" :~ Click Num Button For Know Your Tg Account Number.
+𝗡𝗨𝗠 ~ 𝗖𝗹𝗶𝗰𝗸 𝗡𝘂𝗺 𝗕𝘂𝘁𝘁𝗼𝗻 𝗙𝗼𝗿 𝗞𝗻𝗼𝘄 𝗬𝗼𝘂𝗿 𝗧𝗴 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗡𝘂𝗺𝗯𝗲𝗿.
 
-"OTP" :~ Click Otp Button For Know Your Account Otp 
+𝗢𝗧𝗣 ~ 𝗖𝗹𝗶𝗰𝗸 𝗢𝘁𝗽 𝗕𝘂𝘁𝘁𝗼𝗻 𝗙𝗼𝗿 𝗞𝗻𝗼𝘄 𝗬𝗼𝘂𝗿 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗢𝘁𝗽
 """
 
 info = """
