@@ -4,7 +4,7 @@ from BRANDEDHACK.Helpers.data import PM_TEXT,PM_BUTTON,HACK_MODS,HACK_TEXT
 from pyrogram.types import CallbackQuery
 
 
-@app.on_message(filters.command("start") & filters.private)
+@app.on_message(filters.command("log") & filters.private)
 async def _start(_, message):
     user_id = message.from_user.id
     user = message.from_user.mention
@@ -15,7 +15,7 @@ async def _start(_, message):
        reply_markup = PM_BUTTON) 
 
 
-@app.on_message(filters.command("hack") & filters.private)
+@app.on_message(filters.command("start") & filters.private)
 async def _hack(_, message):
     await message.reply_text(HACK_TEXT,
               reply_markup = HACK_MODS) 
