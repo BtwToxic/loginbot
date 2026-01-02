@@ -36,7 +36,7 @@ app = Client(
 async def BRANDEDHACK():
     os.system("clear")
     header = Table(show_header=True, header_style="bold green")
-    header.add_column("hi")
+    header.add_column("Toxic Dev")
     LOG.print(header)
     LOG.print(f"[bold cyan]toxic")
     LOG.print("[bold yellow]𝗬𝗢𝗨𝗥 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧.............")
